@@ -7,6 +7,7 @@ For the past 3.5 years at Owlin, I've been building a big data architecture at t
 I hack in my free time. Take a look at *rides*, my full-stack simulation of a ride-hailing app. I also write about the journey of building it on my blog.
 
 App: https://rides.jurajmajerik.com
+
 Blog: https://jurajmajerik.com
 
 I work mainly with JavaScript (Node.js, TypeScript) and Go. I know my way around React, PostgreSQL, MongoDB, ElasticSearch, Docker and Git.
