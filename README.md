@@ -9,6 +9,6 @@ I hack in my free time. Take a look at *rides*, my full-stack simulation of a ri
 App: https://rides.jurajmajerik.com  
 Blog: https://jurajmajerik.com
 
-I work mainly with JavaScript (Node.js, TypeScript) and Go. I know my way around React, PostgreSQL, MongoDB, ElasticSearch, Docker and Git.
+I work mainly with JavaScript (Node.js, TypeScript) and Go. I know my way around React, PostgreSQL, MongoDB, ElasticSearch, Docker, Git, Prometheus and Grafana.
 
 I'm open to job opportunities starting in August/September this year.
