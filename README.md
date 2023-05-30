@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Juraj, a full-stack software engineer with 5 years of experience.
+I'm Juraj, a full-stack software engineer.
 
 For the past 3.5 years at Owlin, I've been building a big data architecture at the intersection of risk, finance, and news. Owlin's clients include Nike, KPMG, Fitch Ratings, ING and several large investment firms.
 
